@@ -1,5 +1,5 @@
 {
-  "name": "elf-generator-blog",
+  "name": "@11in/elf-generator-blog",
   "version": "1.0.0",
   "description": "Blog generator plugin for Elf",
   "main": "index.js",
