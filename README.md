@@ -18,3 +18,6 @@ module.exports = {
     }
 }
 ```
+
+This module includes a `--categories` option for the generator.
+Items passed to this option will be treated as values in an array.
