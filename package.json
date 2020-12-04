@@ -1,0 +1,25 @@
+{
+  "name": "elf-generator-blog",
+  "version": "1.0.0",
+  "description": "Blog generator plugin for Elf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/11in/elf-generator-blog.git"
+  },
+  "keywords": [
+    "elf",
+    "elfin",
+    "blog",
+    "generator"
+  ],
+  "author": "Ben Martinez-Bateman <ben@alwaysblank.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/11in/elf-generator-blog/issues"
+  },
+  "homepage": "https://github.com/11in/elf-generator-blog#readme"
+}
