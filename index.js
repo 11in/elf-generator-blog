@@ -2,7 +2,7 @@ module.exports = {
     type: 'blog',
     singular: 'post',
     template: {
-        contentPath: `content/blog/{{ slug }}.md`,
+        contentPath: `site/blog/{{ slug }}.md`,
         frontmatter: {
             title: `{{ title }}`,
             date: `{{ date }}`,
