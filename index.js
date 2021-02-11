@@ -6,7 +6,7 @@ module.exports = {
         frontmatter: {
             title: `{{ title }}`,
             date: `{{ date }}`,
-            categories: argv => argv.categories,
+            categories: argv => argv.categories || [],
         }
     },
     module: {
